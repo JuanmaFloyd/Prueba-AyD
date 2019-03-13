@@ -1,5 +1,5 @@
 public class Prueba{
     public static void maiun(String[] args){
-        System.out.println("Hola Agus");
+        System.out.println("STEFO SE LA COME");
     }
 }
